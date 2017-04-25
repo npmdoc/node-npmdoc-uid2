@@ -1,6 +1,6 @@
 # npmdoc-uid2
 
-#### api documentation for  uid2 (v0.0.3)  [![npm package](https://img.shields.io/npm/v/npmdoc-uid2.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-uid2) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-uid2.svg)](https://travis-ci.org/npmdoc/node-npmdoc-uid2)
+#### basic api documentation for  uid2 (v0.0.3)  [![npm package](https://img.shields.io/npm/v/npmdoc-uid2.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-uid2) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-uid2.svg)](https://travis-ci.org/npmdoc/node-npmdoc-uid2)
 
 #### strong uid
 
@@ -39,7 +39,8 @@
     "tags": [
         "uid"
     ],
-    "version": "0.0.3"
+    "version": "0.0.3",
+    "bin": {}
 }
 ```
 
